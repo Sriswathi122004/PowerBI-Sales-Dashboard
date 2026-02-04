@@ -43,10 +43,15 @@ Skills: Power BI | DAX | Python | Data Analysis
 🚀 How to Use
 1. Download the `.pbix` file from the repository  
 2. Open it using Power BI Desktop
-3. Use slicers and filters to explore insights interactively  
+3. Use slicers and filters to explore insights interactively
+
 
  🔮 Future Improvements
 - Sales and profit forecasting
 - Deeper cost and margin analysis
 - Customer segmentation by region and model
 - Automation of data refresh
+
+
+
+<img width="1063" height="615" alt="Screenshot 2026-02-03 194901" src="https://github.com/user-attachments/assets/c95ee725-4100-4be0-8f44-ff1a3991dfb5" />
