@@ -35,7 +35,7 @@ The BMW Sales Dashboard is an interactive Power BI report designed to analyze sa
   - Total Sales – Measures overall unit sales performance
   - Total Revenue – Tracks income generated from vehicle sales
   - Total Profit – Highlights profitability and operational efficiency
-  - 
+    
 🔹 Trend Analysis
 
   - Line Chart (Year vs Sales)
@@ -57,7 +57,7 @@ The BMW Sales Dashboard is an interactive Power BI report designed to analyze sa
   - Tree Map (Price vs Sales Volume)
   - Identifies models driving the highest revenue
   - Distinguishes between premium, high-margin models and high-volume sellers
-  - 
+    
 🛠  [Tools & Technologies](#-tools--technologies)
 
 - Power BI – Data modeling and visualization
@@ -88,3 +88,9 @@ The BMW Sales Dashboard is an interactive Power BI report designed to analyze sa
 - Detailed cost and margin analysis
 - Customer segmentation by region and car model
 - Automated data refresh and real-time dashboard integration
+
+ demo 
+https://github.com/user-attachments/assets/5edc40d6-a7a7-4ef8-95f5-bb7458698b0d
+
+
+  
