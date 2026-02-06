@@ -5,60 +5,76 @@
 - [Key Insights](#-key-insights)
 - [Dashboard Features](#-dashboard-features)
 - [Tools & Technologies](#-tools--technologies)
+- [Repository Structure](#repository-structure)
+- [Author](#author)
+- [How to Use](#how-to-use)
 - [Future Improvements](#-future-improvements)
 
-📌 Project Overview
-The BMW Sales Dashboard is an interactive Power BI report that provides insights into BMW’s sales performance across different years, regions, and car models.  
-The dashboard is designed to help stakeholders understand sales trends, revenue distribution, and profitability drivers using data visualization and analytics.
+📌[Project Overview](#-project-overview) 
 
-🎯 Business Objectives
-- Track overall sales, revenue, and profit performance
-- Analyze year-over-year sales and profit trends
-- Identify high-performing and low-performing regions
-- Evaluate car model–wise contribution to total sales
+The BMW Sales Dashboard is an interactive Power BI report designed to analyze sales, revenue, and profit performance of BMW across multiple years, regions, and car models.The dashboard enables stakeholders to quickly identify business trends, regional performance differences, and key profitability drivers through intuitive data visualizations.
+
+🎯[Business Objectives](#-business-objectives)
+- Monitor overall sales, revenue, and profit performance
+- Analyze year-over-year trends in sales and profitability
+- Identify high-performing and underperforming regions
+- Evaluate car model–wise contribution to total sales and revenue
 - Support strategic and data-driven decision-making
 
-📊 Key Insights
-- BMW sales show yearly fluctuations, reflecting changes in market demand and economic conditions.
-- Asia is the leading revenue-generating region, driven by strong demand for premium vehicles.
-- Profit does not always move in line with sales, indicating the influence of costs, pricing, and discounts.
-- A few key models account for a significant share of total sales, highlighting product concentration.
-- Regional performance varies due to differences in customer preferences, taxation, and operating costs.
+📊[Key Insights](#-key-insights)
+- BMW sales exhibit yearly fluctuations, reflecting shifts in market demand and economic conditions.
+- Asia emerges as the highest revenue-generating region, driven by strong demand for premium vehicles.
+- Profit trends do not always move in line with sales, highlighting the impact of pricing strategies, costs, and discounts.
+- A limited number of key models contribute a significant share of total sales, indicating product concentration.
+- Regional performance varies due to customer preferences, taxation policies, and operating costs.
 
-📈 Dashboard Features
-- KPI cards for Total Sales, Revenue, and Profit
-- Year-wise trend analysis using line charts
-- Region-wise sales and revenue comparison
-- Model-wise performance breakdown
-- Interactive filters and slicers for dynamic analysis
+📊[Dashboard Features](#-dashboard-features)
+🔹 KPI Cards
+  - Total Sales – Measures overall unit sales performance
+  - Total Revenue – Tracks income generated from vehicle sales
+  - Total Profit – Highlights profitability and operational efficiency
+🔹 Trend Analysis
+  - Line Chart (Year vs Sales)
+  - Visualizes sales growth and decline over time
+  - Identifies peak and low-performing years
+  - Line Chart (Year vs Profit)
+  - Evaluates margin stability and long-term profitability
+🔹 Regional Analysis
+  - Bar Chart (Sales vs Region)
+  - Compares regional sales contributions
+  - Highlights strong and underperforming markets
+  - Pie Chart (Revenue by Region)
+  - Displays revenue distribution across regions
+🔹 Product & Pricing Insights
+  - Tree Map (Price vs Sales Volume)
+  - Identifies models driving the highest revenue
+  - Distinguishes between premium, high-margin models and high-volume sellers
+  - 
+🛠  [Tools & Technologies](#-tools--technologies)
+Power BI – Data modeling and visualization
+DAX – Measures and KPIs
+Microsoft Excel – Data source and preprocessing
 
-🛠 Tools & Technologies
-- Power BI
-- DAX
-- Microsoft Excel (Data Source)
+📂 [Repository Structure](#repository-structure)
 
-📂 Repository Structure
-- `BMW_Sales_Dashboard.pbix` – Power BI dashboard file  
-- `images/` – Dashboard screenshots  
-- `README.md` – Project documentation  
+BMW_Sales_Dashboard.pbix – Power BI dashboard file
+images/ – Dashboard screenshots
+README.md – Project documentation
 
-👤 Author
-sriswathi R  
-MBA – Business Analytics & Finance  
-Skills: Power BI | DAX | Python | Data Analysis  
+👤 [Author](#author)
+- Sriswathi R
+- MBA – Business Analytics & Finance
+- Skills: Power BI | DAX | Python | Data Analysis
 
-🚀 How to Use
-1. Download the `.pbix` file from the repository  
-2. Open it using Power BI Desktop
-3. Use slicers and filters to explore insights interactively
+🚀 [How to Use](#how-to-use)
+- Download the .pbix file from the repository
+- Open it in Power BI Desktop
+- Use slicers and filters to explore insights interactively
 
+🔮 [Future Improvements](#Future-Improvements)
+- Sales and profit forecasting using predictive analytics
+- Detailed cost and margin analysis
 
- 🔮 Future Improvements
-- Sales and profit forecasting
-- Deeper cost and margin analysis
-- Customer segmentation by region and model
-- Automation of data refresh
+Customer segmentation by region and car model
 
-
-
-<img width="1063" height="615" alt="Screenshot 2026-02-03 194901" src="https://github.com/user-attachments/assets/c95ee725-4100-4be0-8f44-ff1a3991dfb5" />
+Automated data refresh and real-time dashboard integration
