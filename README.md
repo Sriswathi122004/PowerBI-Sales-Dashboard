@@ -29,52 +29,62 @@ The BMW Sales Dashboard is an interactive Power BI report designed to analyze sa
 - Regional performance varies due to customer preferences, taxation policies, and operating costs.
 
 📊[Dashboard Features](#-dashboard-features)
+
 🔹 KPI Cards
+
   - Total Sales – Measures overall unit sales performance
   - Total Revenue – Tracks income generated from vehicle sales
   - Total Profit – Highlights profitability and operational efficiency
+  - 
 🔹 Trend Analysis
+
   - Line Chart (Year vs Sales)
   - Visualizes sales growth and decline over time
   - Identifies peak and low-performing years
   - Line Chart (Year vs Profit)
   - Evaluates margin stability and long-term profitability
+
 🔹 Regional Analysis
+
   - Bar Chart (Sales vs Region)
   - Compares regional sales contributions
   - Highlights strong and underperforming markets
   - Pie Chart (Revenue by Region)
   - Displays revenue distribution across regions
+    
 🔹 Product & Pricing Insights
+
   - Tree Map (Price vs Sales Volume)
   - Identifies models driving the highest revenue
   - Distinguishes between premium, high-margin models and high-volume sellers
   - 
 🛠  [Tools & Technologies](#-tools--technologies)
-Power BI – Data modeling and visualization
-DAX – Measures and KPIs
-Microsoft Excel – Data source and preprocessing
+
+- Power BI – Data modeling and visualization
+- DAX – Measures and KPIs
+- Microsoft Excel – Data source and preprocessing
 
 📂 [Repository Structure](#repository-structure)
 
-BMW_Sales_Dashboard.pbix – Power BI dashboard file
-images/ – Dashboard screenshots
-README.md – Project documentation
+- BMW_Sales_Dashboard.pbix – Power BI dashboard file
+- BMW sales data(2010-2024).csv  – dataset from kaggle
+- README.md – Project documentation
 
 👤 [Author](#author)
+
 - Sriswathi R
 - MBA – Business Analytics & Finance
 - Skills: Power BI | DAX | Python | Data Analysis
 
 🚀 [How to Use](#how-to-use)
+
 - Download the .pbix file from the repository
 - Open it in Power BI Desktop
 - Use slicers and filters to explore insights interactively
 
 🔮 [Future Improvements](#Future-Improvements)
+
 - Sales and profit forecasting using predictive analytics
 - Detailed cost and margin analysis
-
-Customer segmentation by region and car model
-
-Automated data refresh and real-time dashboard integration
+- Customer segmentation by region and car model
+- Automated data refresh and real-time dashboard integration
