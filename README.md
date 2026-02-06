@@ -1,4 +1,11 @@
 🚗 BMW Sales Dashboard | Power BI
+## 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Business Objectives](#-business-objectives)
+- [Key Insights](#-key-insights)
+- [Dashboard Features](#-dashboard-features)
+- [Tools & Technologies](#-tools--technologies)
+- [Future Improvements](#-future-improvements)
 
 📌 Project Overview
 The BMW Sales Dashboard is an interactive Power BI report that provides insights into BMW’s sales performance across different years, regions, and car models.  
