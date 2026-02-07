@@ -9,6 +9,7 @@
 - [Author](#author)
 - [How to Use](#how-to-use)
 - [Future Improvements](#-future-improvements)
+- [Demo](#Demo)
 
 [Project Overview](#-project-overview) 
 
@@ -89,7 +90,7 @@ The BMW Sales Dashboard is an interactive Power BI report designed to analyze sa
 - Customer segmentation by region and car model
 - Automated data refresh and real-time dashboard integration
 
- Demo
+ [Demo](#Demo)
  
 https://github.com/user-attachments/assets/5edc40d6-a7a7-4ef8-95f5-bb7458698b0d
 
