@@ -1,5 +1,5 @@
  BMW Sales Dashboard | Power BI
-## 📑 Table of Contents
+##  Table of Contents
 - [Project Overview](#-project-overview)
 - [Business Objectives](#-business-objectives)
 - [Key Insights](#-key-insights)
