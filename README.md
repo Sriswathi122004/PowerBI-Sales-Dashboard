@@ -1,4 +1,4 @@
-🚗 BMW Sales Dashboard | Power BI
+ BMW Sales Dashboard | Power BI
 ## 📑 Table of Contents
 - [Project Overview](#-project-overview)
 - [Business Objectives](#-business-objectives)
@@ -10,25 +10,25 @@
 - [How to Use](#how-to-use)
 - [Future Improvements](#-future-improvements)
 
-📌[Project Overview](#-project-overview) 
+[Project Overview](#-project-overview) 
 
 The BMW Sales Dashboard is an interactive Power BI report designed to analyze sales, revenue, and profit performance of BMW across multiple years, regions, and car models.The dashboard enables stakeholders to quickly identify business trends, regional performance differences, and key profitability drivers through intuitive data visualizations.
 
-🎯[Business Objectives](#-business-objectives)
+[Business Objectives](#-business-objectives)
 - Monitor overall sales, revenue, and profit performance
 - Analyze year-over-year trends in sales and profitability
 - Identify high-performing and underperforming regions
 - Evaluate car model–wise contribution to total sales and revenue
 - Support strategic and data-driven decision-making
 
-📊[Key Insights](#-key-insights)
+[Key Insights](#-key-insights)
 - BMW sales exhibit yearly fluctuations, reflecting shifts in market demand and economic conditions.
 - Asia emerges as the highest revenue-generating region, driven by strong demand for premium vehicles.
 - Profit trends do not always move in line with sales, highlighting the impact of pricing strategies, costs, and discounts.
 - A limited number of key models contribute a significant share of total sales, indicating product concentration.
 - Regional performance varies due to customer preferences, taxation policies, and operating costs.
 
-📊[Dashboard Features](#-dashboard-features)
+[Dashboard Features](#-dashboard-features)
 
 🔹 KPI Cards
 
@@ -58,38 +58,39 @@ The BMW Sales Dashboard is an interactive Power BI report designed to analyze sa
   - Identifies models driving the highest revenue
   - Distinguishes between premium, high-margin models and high-volume sellers
     
-🛠  [Tools & Technologies](#-tools--technologies)
+ [Tools & Technologies](#-tools--technologies)
 
 - Power BI – Data modeling and visualization
 - DAX – Measures and KPIs
 - Microsoft Excel – Data source and preprocessing
 
-📂 [Repository Structure](#repository-structure)
+ [Repository Structure](#repository-structure)
 
 - BMW_Sales_Dashboard.pbix – Power BI dashboard file
 - BMW sales data(2010-2024).csv  – dataset from kaggle
 - README.md – Project documentation
 
-👤 [Author](#author)
+ [Author](#author)
 
 - Sriswathi R
 - MBA – Business Analytics & Finance
 - Skills: Power BI | DAX | Python | Data Analysis
 
-🚀 [How to Use](#how-to-use)
+[How to Use](#how-to-use)
 
 - Download the .pbix file from the repository
 - Open it in Power BI Desktop
 - Use slicers and filters to explore insights interactively
 
-🔮 [Future Improvements](#Future-Improvements)
+[Future Improvements](#Future-Improvements)
 
 - Sales and profit forecasting using predictive analytics
 - Detailed cost and margin analysis
 - Customer segmentation by region and car model
 - Automated data refresh and real-time dashboard integration
 
- demo 
+ Demo
+ 
 https://github.com/user-attachments/assets/5edc40d6-a7a7-4ef8-95f5-bb7458698b0d
 
 
